@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.mc-gold.minecraft.co.com",
-    "port": 25565,
+    "ip": "gold.magmanode.com",
+    "port": 25786,
     "version": "1.20.1",
     "try-creative": false
   },
